@@ -11,7 +11,7 @@ https://github.com/SogonovAN/Git.git
 ### Задание 3
 
 
-![граф коммитов](3.JPG)`
+![граф коммитов](https://github.com/SogonovAN/screen/blob/main/3.JPG)
 
 ### Задание 4
 
