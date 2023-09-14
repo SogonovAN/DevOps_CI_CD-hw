@@ -8,5 +8,5 @@
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/2.2.JPG)
 ### Задание 3
 
-![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.1.JPG))
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.1.JPG)
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.2.JPG)
