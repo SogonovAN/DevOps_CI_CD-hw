@@ -2,11 +2,11 @@
 
 ### Задание 1
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/1.1.JPG))
-![граф коммитов](https://github.com/SogonovAN/screen/blob/main/3.JPG)
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/1.2.JPG)
 ### Задание 2
-![граф коммитов](https://github.com/SogonovAN/screen/blob/main/3.JPG)
-![граф коммитов](https://github.com/SogonovAN/screen/blob/main/3.JPG)
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/2.1.JPG)
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/2.2.JPG)
 ### Задание 3
 
-![граф коммитов](https://github.com/SogonovAN/screen/blob/main/3.JPG)
-![граф коммитов](https://github.com/SogonovAN/screen/blob/main/3.JPG)
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.1.JPG))
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.2.JPG)
