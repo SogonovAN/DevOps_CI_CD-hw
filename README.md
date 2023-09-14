@@ -1,12 +1,17 @@
 # Домашнее задание к занятию "Что такое DevOps. СI/СD" - `Согонов А.Н.`
 
 ### Задание 1
+
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/1.1.JPG))
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/1.2.JPG)
+
 ### Задание 2
+
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/2.1.JPG)
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/2.2.JPG)
+
 ### Задание 3
-В лекции небыло разбора по написанию pipline...
+
+### В лекции небыло разбора по написанию pipline...
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.1.JPG)
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.3.JPG)
