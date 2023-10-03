@@ -12,6 +12,6 @@
 
 ### Задание 3
 
-### В лекции небыло разбора по написанию pipline...
+### 
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.1.JPG)
 ![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.3.JPG)
