@@ -12,6 +12,6 @@
 
 ### Задание 3
 
-### 
-![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.1.JPG)
-![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.3.JPG)
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.4.JPG)
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.5.JPG)
+![граф коммитов](https://github.com/SogonovAN/DevOps_CI_CD-hw/blob/main/3.6.JPG)
